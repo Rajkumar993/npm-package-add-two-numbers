@@ -1,6 +1,6 @@
 {
   "name": "raj_sumof_two_numbers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "add two numbers",
   "main": "index.js",
   "type": "module",
