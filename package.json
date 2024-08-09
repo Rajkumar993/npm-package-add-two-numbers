@@ -1,0 +1,20 @@
+{
+  "name": "raj_sumof_two_numbers",
+  "version": "1.0.1",
+  "description": "add two numbers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajkumar993/npm-package-add-two-numbers.git"
+  },
+  "author": "Rajkumar.R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajkumar993/npm-package-add-two-numbers/issues"
+  },
+  "homepage": "https://github.com/Rajkumar993/npm-package-add-two-numbers#readme"
+}
